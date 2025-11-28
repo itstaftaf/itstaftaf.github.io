@@ -1,0 +1,19 @@
+- name: Bash
+  percentage: 80
+  color: primary
+
+- name: Python
+  percentage: 70
+  color: secondary
+
+- name: HTML/CSS
+  percentage: 75
+  color: danger
+
+- name: YAML
+  percentage: 85
+  color: info
+
+- name: Git / GitHub
+  percentage: 90
+  color: success

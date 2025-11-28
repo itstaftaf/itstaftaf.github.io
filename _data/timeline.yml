@@ -1,0 +1,17 @@
+- date: 2024
+  title: "Started Home Lab Projects"
+  description: "Set up a home lab to experiment with networking, servers, and virtualization."
+  icon: laptop
+  color: primary
+
+- date: 2025
+  title: "Pi-hole Network Ad Blocker"
+  description: "Implemented network-wide ad-blocking and DNS monitoring on Raspberry Pi."
+  icon: shield-alt
+  color: success
+
+- date: 2025
+  title: "Docker Learning Projects"
+  description: "Built multiple containerized projects to learn Docker, Docker Compose, and deployment workflows."
+  icon: docker
+  color: info

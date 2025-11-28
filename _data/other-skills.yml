@@ -1,0 +1,19 @@
+- name: Networking: TCP/IP, VLANs, VPNs
+  percentage: 80
+  color: primary
+
+- name: Linux: Ubuntu, Raspberry Pi OS
+  percentage: 85
+  color: secondary
+
+- name: Docker / Virtualization
+  percentage: 70
+  color: danger
+
+- name: Monitoring & Security: Pi-hole, Firewall
+  percentage: 65
+  color: info
+
+- name: Home Lab & Automation
+  percentage: 75
+  color: success

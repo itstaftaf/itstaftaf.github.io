@@ -7,7 +7,7 @@ weight: 3
 
 <style>
 .name-display {
-  font-size: 1.5em !important; /* Makes name bigger */
+  font-size: 1.0em !important; /* Makes name bigger */
   display: inline-block;
   overflow: hidden;
   white-space: nowrap;

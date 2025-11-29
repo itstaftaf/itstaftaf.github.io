@@ -1,12 +1,12 @@
-favicon: /assets/img/favicon.ico
+favicon: /assets/img/favicon.png
 
 ### Site Settings ###
 title               : Tilemachos Tsakiris
 description         : >- 
                       IT Enthusiast | Projects & Portfolio
-baseurl             :""                  # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : ""                  # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :   itstaftaf/itstaftaf.github.io  # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        :""
+remote_theme: ""
 
 
 ### Plugins ###

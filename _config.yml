@@ -53,6 +53,12 @@ analytics:
     tracking_id: your-google-tracking-id
 
 
+### Projects ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
 ### Exclude from processing ###
 exclude:
   - README.md

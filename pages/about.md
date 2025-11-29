@@ -5,10 +5,32 @@ permalink: /about/
 weight: 3
 ---
 
+<style>
+.name-display {
+  font-size: 2.5em !important; /* Makes name bigger */
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 3px solid #333;
+  animation: typing 3s steps(20, end), blink-caret 0.75s step-end infinite;
+  font-family: monospace;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: #333; }
+}
+</style>
+
 # **About Me**
 
-Hi I am **Tilemachos Tsakiris** :wave:,<br>
-I am an IT enthusiast exploring networking, systems administration, and virtualization.  
+Hi I am <span class="name-display">Tilemachos Tsakiris</span> :wave:,<br>
+I am an IT enthusiast exploring networking, systems administration, and virtualization. [web:1][web:4]
 
 I enjoy learning new technologies, building projects, and improving my skills every day.  
 
